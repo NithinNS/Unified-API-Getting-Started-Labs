@@ -2,7 +2,7 @@
 This folder contains a hands-on lab for getting started with the Microsoft Graph in an Android Studio project. This solution is part of a broader getting started series across a number of platforms/languages.
 
 ## Step 1: Register the Application ##
-1.	Navigate to the app registration tool on dev.office.com using the link [https://dev.office.com/app-registration](https://dev.office.com/app-registration")
+1.	Navigate to the app registration tool on dev.office.com using the link [https://dev.office.com/app-registration](https://dev.office.com/app-registration)
 2.	The app registration tool may ask you to sign-in. If so, use an account that is an administrator in Office 365 (ex: developer tenant owner).
 ![App registration - sign in](http://i.imgur.com/ErIGTnp.png)
 3.	On the app registration form, give your application an **App name**, select **Native App** for the **App type**, and check the **Users.Read.All** permission in the **Users** permission grouping.
